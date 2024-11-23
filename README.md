@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone! I'm Vlad - QA Engineer 👋
 
 <!--
 **vladyslav-kocherhin/Vladyslav-Kocherhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
