@@ -2,6 +2,12 @@
 
 ### Knowledge and Tools
 [![My Skills](https://skillicons.dev/icons?i=postman,html,css,vscode,git,webstorm,&theme=dark&perline=10)](https://skillicons.dev)
+<div>
+  <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Chrome%20DevTools.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>&nbsp
+   <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/SQL.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>&nbsp
+  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Swagger-photoaidcom-cropped.png" alt="sudeep acharjee" height="50" width="50" /></a>
+</div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
