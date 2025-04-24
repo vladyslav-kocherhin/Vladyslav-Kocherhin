@@ -29,10 +29,7 @@
 
 
 
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=postman,html,css,vscode,git,webstorm,&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark&perline=10)](https://skillicons.dev)
 
 
 
