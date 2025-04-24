@@ -2,7 +2,7 @@
 
 ### Knowledge and Tools
 
-### Programming languages for automation testing                      ### IDE
+### Programming languages for automation testing                               IDE
 
 
 
