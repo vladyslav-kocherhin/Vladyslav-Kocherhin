@@ -13,6 +13,8 @@
 ### Reporting services 
 
 ### API 
+[![My Skills](https://skillicons.dev/icons?i=postman&theme=dark&perline=10)](https://skillicons.dev)
+<a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Swagger-photoaidcom-cropped.png" alt="sudeep acharjee" height="50" width="50" /></a>
 
 ### Databases 
 
@@ -25,6 +27,7 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=postman,html,css,vscode,git,webstorm,&theme=dark&perline=10)](https://skillicons.dev)
+
 
 
 <div>
