@@ -1,7 +1,16 @@
 # Hi everyone! Welcome to my GitHub account, My name is Vlad - I'm a QA Automation Engineer <img src="https://em-content.zobj.net/source/telegram/386/woman-technologist_1f469-200d-1f4bb.webp" alt="woman-technologist" width="40" height="40" />
 
 ### Knowledge and Tools
+
+### Programming languages for automation testing                      ### IDE
+
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=postman,html,css,vscode,git,webstorm,&theme=dark&perline=10)](https://skillicons.dev)
+
+
 <div>
   <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Chrome%20DevTools.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>&nbsp
    <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/SQL.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>&nbsp
