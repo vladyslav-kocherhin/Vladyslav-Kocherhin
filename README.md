@@ -2,7 +2,23 @@
 
 ### Knowledge and Tools
 
-### Programming languages for automation testing                               IDE
+### Programming languages for automation testing 
+
+### Frameworks for automation testing
+
+### IDE
+
+### Version control system
+
+### Reporting services 
+
+### API 
+
+### Databases 
+
+### Other
+
+
 
 
 
