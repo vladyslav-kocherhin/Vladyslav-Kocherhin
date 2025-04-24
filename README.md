@@ -5,10 +5,15 @@
 ### Programming languages for automation testing 
 
 ### Frameworks for automation testing
+<a href="https://swagger.io/" target="blank"> <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/cypress-1.svg" alt="Swagger logo" height="50" width="50" style="background-color: white; padding: 5px; border-radius: 5px;"/></a>
+  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/playwright-logo-png_seeklogo-435674.png" alt="sudeep acharjee" height="50" width="50" /></a>
+  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/WebdriverIO.png" alt="sudeep acharjee" height="50" width="50" /></a>
 
 ### IDE
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm&theme=dark&perline=10)](https://skillicons.dev)
 
 ### Version control system
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark&perline=10)](https://skillicons.dev)
 
 ### Reporting services 
 
