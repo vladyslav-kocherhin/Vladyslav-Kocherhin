@@ -37,9 +37,6 @@
   <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Chrome%20DevTools.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>&nbsp
    <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/SQL.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>&nbsp
   <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Swagger-photoaidcom-cropped.png" alt="sudeep acharjee" height="50" width="50" /></a>
-  <a href="https://swagger.io/" target="blank"> <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/cypress-1.svg" alt="Swagger logo" height="50" width="50" style="background-color: white; padding: 5px; border-radius: 5px;"/></a>
-  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/playwright-logo-png_seeklogo-435674.png" alt="sudeep acharjee" height="50" width="50" /></a>
-  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/WebdriverIO.png" alt="sudeep acharjee" height="50" width="50" /></a>
 </div>
 </div>
 
