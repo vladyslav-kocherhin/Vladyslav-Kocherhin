@@ -10,7 +10,6 @@
   <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/WebdriverIO.png" alt="sudeep acharjee" height="50" width="50" /></a>
 
 ### IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm&theme=dark&perline=10)](https://skillicons.dev)
 <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode,webstorm&theme=dark&perline=10" alt="sudeep acharjee" title="Visual Studio Code"/></a>
 
 ### Version control system
