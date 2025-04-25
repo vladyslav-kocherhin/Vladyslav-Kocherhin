@@ -7,8 +7,8 @@
 <a href="https://www.javascript.com/" target="blank"><img src="https://skillicons.dev/icons?i=js&theme=dark&perline=10" alt="sudeep acharjee" title="JavaScript"/></a>
 
 ### Frameworks for automation testing
-<a href="https://swagger.io/" target="blank"> <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/cypress-1.svg" alt="Swagger logo" height="47" width="50" style="background-color: white; padding: 5px; border-radius: 5px;"/></a>
-  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/playwright-logo-png_seeklogo-435674.png" alt="sudeep acharjee" height="47" width="50" /></a>
+<a href="https://www.typescriptlang.org/" target="blank"><img src="https://skillicons.dev/icons?i=cypress&theme=dark&perline=10" alt="sudeep acharjee" title="TypeScript"/></a>
+  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/playwright.png" alt="sudeep acharjee" height="46" width="50" /></a>
   <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/WebdriverIO.png" alt="sudeep acharjee" height="47" width="50" /></a>
   <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Mocha_logo.svg.png" alt="sudeep acharjee" height="47" width="50" /></a>
   <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/chai.png" alt="sudeep acharjee" height="47" width="45" /></a>
@@ -50,7 +50,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kocherhin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudeep acharjee" height="35" width="40" /></a>
-<a href="https://t.me/vladyslavk0" target="blank"><img align="center" src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Telegram_2019_Logo.svg" alt="sudeep acharjee" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/kocherhin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudeep acharjee" title="https://www.linkedin.com/in/kocherhin/" height="35" width="40" /></a>
+<a href="https://t.me/vladyslavk0" target="blank"><img align="center" src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Telegram_2019_Logo.svg" alt="sudeep acharjee" title="https://t.me/vladyslavk0" height="35" width="40" /></a>
 </p>
 
