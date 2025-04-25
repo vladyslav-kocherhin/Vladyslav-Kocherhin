@@ -7,14 +7,15 @@
 <a href="https://www.javascript.com/" target="blank"><img src="https://skillicons.dev/icons?i=js&theme=dark&perline=10" alt="sudeep acharjee" title="JavaScript"/></a>
 
 ### Frameworks for automation testing
-<a href="https://www.typescriptlang.org/" target="blank"><img src="https://skillicons.dev/icons?i=cypress&theme=dark&perline=10" alt="sudeep acharjee" title="TypeScript"/></a>
-  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/playwright.png" alt="sudeep acharjee" height="46" width="50" /></a>
-  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/WebdriverIO.png" alt="sudeep acharjee" height="47" width="50" /></a>
-  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Mocha_logo.svg.png" alt="sudeep acharjee" height="47" width="50" /></a>
-  <a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/chai.png" alt="sudeep acharjee" height="47" width="45" /></a>
+<a href="https://www.cypress.io/" target="blank"><img src="https://skillicons.dev/icons?i=cypress&theme=dark&perline=10" alt="sudeep acharjee" title="Cypress"/></a>
+  <a href="https://playwright.dev/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/playwright.png" title="Playwright" alt="sudeep acharjee" height="46" width="50" /></a>
+  <a href="https://webdriver.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/WebdriverIO.png" title="WebdriverIO" alt="sudeep acharjee" height="47" width="50" /></a>
+  <a href="https://mochajs.org/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Mocha_logo.svg.png" title="Mocha" alt="sudeep acharjee" height="47" width="50" /></a>
+  <a href="https://www.chaijs.com/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/chai.png" title="Chai" alt="sudeep acharjee" height="47" width="45" /></a>
 
 ### IDE
-<a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode,webstorm&theme=dark&perline=10" alt="sudeep acharjee" title="Visual Studio Code"/></a>
+<a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=10" alt="sudeep acharjee" title="VS Code"/></a>
+<a href="https://www.jetbrains.com/ru-ru/webstorm/" target="blank"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark&perline=10" alt="sudeep acharjee" title="WebStorm"/></a>
 
 ### Version control system
 [![My Skills](https://skillicons.dev/icons?i=git&theme=dark&perline=10)](https://skillicons.dev)
