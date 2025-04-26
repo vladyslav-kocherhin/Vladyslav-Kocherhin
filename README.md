@@ -18,36 +18,27 @@
 <a href="https://www.jetbrains.com/ru-ru/webstorm/" target="blank"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark&perline=10" alt="sudeep acharjee" title="WebStorm"/></a>
 
 ### Version control system
-[![My Skills](https://skillicons.dev/icons?i=git&theme=dark&perline=10)](https://skillicons.dev)
+<a href="https://git-scm.com/" target="blank"><img src="https://skillicons.dev/icons?i=git&theme=dark&perline=10" alt="sudeep acharjee" title="Git"/></a>
 
 ### Services for storing code
-<a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=github,gitlab&theme=dark&perline=10" alt="sudeep acharjee" title="Visual Studio Code"/></a>
+<a href="https://github.com/" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="sudeep acharjee" title="GitHub"/></a>
+<a href="https://about.gitlab.com/" target="blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="sudeep acharjee" title="GitLab"/></a>
 
 ### Reporting services 
-<a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/report-portal.png" alt="sudeep acharjee" height="50" width="50" /></a>
-<a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/allure.png" alt="sudeep acharjee" height="50" width="50" /></a>
+<a href="https://reportportal.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/report-portal.png" alt="sudeep acharjee" title="ReportPortal" height="50" width="50" /></a>
+<a href="https://allurereport.org/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/allure.png" alt="sudeep acharjee" title="Allure" height="50" width="50" /></a>
 
 ### API 
-[![My Skills](https://skillicons.dev/icons?i=postman&theme=dark&perline=10)](https://skillicons.dev)
-<a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Swagger-photoaidcom-cropped.png" alt="sudeep acharjee" height="50" width="50" /></a>
+<a href="https://www.postman.com/" target="blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark&perline=10" alt="sudeep acharjee" title="Postman" height="50" width="50" /></a>
+<a href="https://swagger.io/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Swagger-photoaidcom-cropped.png" title="Swagger" alt="sudeep acharjee" height="50" width="50" /></a>
 
-### Databases 
+### Databases
+<img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/SQL.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>
+
 
 ### Other
-<a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=bash,npm,figma,linux,&theme=dark&perline=10" alt="sudeep acharjee" title="Visual Studio Code"/></a>
-
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark&perline=10)](https://skillicons.dev)
-
-
-
-<div>
-  <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Chrome%20DevTools.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>&nbsp
-   <img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/SQL.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>&nbsp
-</div>
-</div>
+<a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=html,css,bash,npm,linux&theme=dark&perline=10" alt="sudeep acharjee" title="Visual Studio Code"/></a>
+<img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Chrome%20DevTools.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="47"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
