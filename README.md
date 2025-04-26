@@ -48,6 +48,9 @@ I'm a detail-oriented QA Engineer with several years of manual testing experienc
 <a href="https://www.atlassian.com/devops/testing-tutorials/jira-zephyr-scale-testing" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/Zephyr.png" alt="sudeep acharjee" title="Zephyr" height="50" width="50"/></a>
 <a href="https://www.testrail.com/" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/test-rail.png" alt="sudeep acharjee" title="TestRail" height="50" width="50"/></a>
 
+<h4 align="left">ISTQB Certified Tester Foundation Level</h4>
+<a href="http://scr.istqb.org/?name=Kocherhin&number=&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10" target="blank"><img src="https://github.com/vladyslav-kocherhin/Vladyslav-Kocherhin/blob/main/ISTQB.png" alt="sudeep acharjee" title="HTML" height="50" width="50"/></a>
+
 <br/>
 <br/>
 
