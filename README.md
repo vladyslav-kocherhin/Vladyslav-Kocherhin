@@ -1,5 +1,5 @@
 # Hi everyone. Welcome to my GitHub account.
-I'm a detail-oriented QA Engineer with several years of manual testing experience and a strong focus on transitioning into automation. Skilled in writing and executing detailed test cases, analyzing bugs, and improving product quality. Currently building automation frameworks using JavaScript/TypeScript, Playwright, and Cypress. Passionate about ensuring high-quality software through both manual expertise and automated solutions.
+I'm a detail-oriented QA Engineer with several years of manual testing experience and a strong focus on transitioning into automation. Skilled in writing and executing detailed test cases, analyzing bugs, and improving product quality. Currently building automation frameworks using JavaScript/TypeScript. Passionate about ensuring high-quality software through both manual expertise and automated solutions.
 
 <h2 align="left">My Knowledge and Tools:</h2>
 
